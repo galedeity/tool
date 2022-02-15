@@ -8,13 +8,13 @@
 	server //ex: f:\server
 	- bin
 	- pkg
-	- src  //ex: f:\server\src
-		- server
-			- cg
-				- base
-				- game server
-				- data server
-				- wallet server
+	- src
+	  - server
+	    - cg
+	      - base
+	      - gameServer
+	      - dataServer
+	      - walletServer
 	~~~
 
 - 插件
