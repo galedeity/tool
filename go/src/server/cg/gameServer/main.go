@@ -5,5 +5,5 @@ import (
 )
 
 func main() {
-	helloworldpkg.Print("gameserver hello world")
+	helloworldpkg.Print("game server hello world")
 }
